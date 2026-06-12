@@ -1,5 +1,5 @@
 
-<img src="img/Hoincare.PNG" alt="Hoincare" width="300" height="300">
+<img src="img/Hoincare.PNG" alt="Hoincare" width="100" height="100">
 
 # Hoincare
 
