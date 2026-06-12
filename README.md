@@ -23,8 +23,6 @@ As a point approaches the boundary, the denominator `(1 - ||u||²)` approaches z
 
 ## Boundary Experiment
 
-## Boundary Experiment
-
 Pushing a point along the x-axis toward 1.0:
 
 | Point | Coordinate | Distance from Origin |
